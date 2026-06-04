@@ -27,6 +27,14 @@ https://github.com/Mr-J-And114/Tarkov-Grenade-Calculator
 
 ---
 
+## 视频教程
+
+```text
+https://www.bilibili.com/video/BV1eE7X6QEyS/
+```
+
+---
+
 ## Map Coordinate Source / 地图坐标来源
 
 Coordinates are currently obtained from Tarkov.dev maps:  
